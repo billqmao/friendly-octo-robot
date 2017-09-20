@@ -1,17 +1,16 @@
 
 /**
  * Name: Bill Mao
- * Date: 9/18/17
+ * Date: 9/19/17
  * School: East Chapel Hill High School
  * Program: Program 54h (donut island)
- * Description: This program stores the constant Pi as a double final variable with a value of 3.14159.
- * The program then stores the radius of a circle, 4.532, as a double.
- * The circumference and area of the circle are then calculated using the first two variables, and are also stored as 64 bit floating point values.
- * The program finally prints the area, circumference, and radius of the circle.
- * and calculate the area and circumference. It then prints the result of these calculations along with the radius
- * Difficulties: When I created this program, I originally rounded to two decimal places instead of three.
- * What I Learned: In this exercise, I learned how to store values as final varaible in Java.
- * I also got more practice with the println function, the mathematical calculations used to round numbers, and mathematical operations in general.
+ * Description: This program is designed to calculate the total farmable area of donut island.
+ * It accomplishes this by storing the constant Pi, the diameter of the island, and the radius of the lake as variables.
+ * It then finds the radius of the island, and the areas of the lake and the island,
+ * The program then subtracts the area if the island from the lake to find the total farmable area. The total farmable area is then rounded to two decimal places.
+ * The program finally prints the total farmable area along with the diameter of the island and the radius of the lake.
+ * Difficulties: When I created this program, I forgot to use the island radius instead of the diameter.
+ * What I Learned: In this exercise, I got some more practice with storing final variables, Java formatting best practices, casting, and mathematical operations.
  */
 
 public class DonutIsland
@@ -32,11 +31,10 @@ public class DonutIsland
         double fertileAreaRounded = (int) (fertileArea * 100 + .5) / 100.0;
         //Prints the results of the calculations
         System.out.println("Donut island with a diameter of 4.16 miles that contains a circular lake of .95 miles has " + fertileAreaRounded + 
-        " square miles of cultivatable land.");
+            " square miles of cultivatable land.");
     }
 }
 
 //Sample Output:
 //Donut island with a diameter of 4.16 miles that contains a circular lake of .95 miles has 10.76 square miles of cultivatable land.
-
 

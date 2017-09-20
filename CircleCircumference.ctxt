@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=CircleCircumference
+comment0.text=\r\n\ Name\:\ Bill\ Mao\r\n\ Date\:\ 9/18/17\r\n\ School\:\ East\ Chapel\ Hill\ High\ School\r\n\ Program\:\ Program\ 54c\ (circles)\r\n\ Description\:\ This\ program\ stores\ the\ constant\ Pi\ as\ a\ double\ final\ variable\ with\ a\ value\ of\ 3.14159.\r\n\ The\ program\ then\ stores\ the\ radius\ of\ a\ circle,\ 4.532,\ as\ a\ double.\r\n\ The\ circumference\ and\ area\ of\ the\ circle\ are\ then\ calculated\ using\ the\ first\ two\ variables,\ and\ are\ also\ stored\ as\ 64\ bit\ floating\ point\ values.\r\n\ The\ program\ finally\ prints\ the\ area,\ circumference,\ and\ radius\ of\ the\ circle.\r\n\ and\ calculate\ the\ area\ and\ circumference.\ It\ then\ prints\ the\ result\ of\ these\ calculations\ along\ with\ the\ radius\r\n\ Difficulties\:\ When\ I\ created\ this\ program,\ I\ originally\ rounded\ to\ two\ decimal\ places\ instead\ of\ three.\r\n\ What\ I\ Learned\:\ In\ this\ exercise,\ I\ learned\ how\ to\ store\ values\ as\ final\ variable\ in\ Java.\r\n\ I\ also\ got\ more\ practice\ with\ the\ println\ function,\ the\ mathematical\ calculations\ used\ to\ round\ numbers,\ and\ mathematical\ operations\ in\ general.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

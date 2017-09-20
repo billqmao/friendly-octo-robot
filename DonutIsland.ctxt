@@ -1,4 +1,6 @@
 #BlueJ class context
-comment0.params=args
-comment0.target=void\ main(java.lang.String[])
-numComments=1
+comment0.target=DonutIsland
+comment0.text=\r\n\ Name\:\ Bill\ Mao\r\n\ Date\:\ 9/19/17\r\n\ School\:\ East\ Chapel\ Hill\ High\ School\r\n\ Program\:\ Program\ 54h\ (donut\ island)\r\n\ Description\:\ This\ program\ is\ designed\ to\ calculate\ the\ total\ farmable\ area\ of\ donut\ island.\r\n\ It\ accomplishes\ this\ by\ storing\ the\ constant\ Pi,\ the\ diameter\ of\ the\ island,\ and\ the\ radius\ of\ the\ lake\ as\ variables.\r\n\ It\ then\ finds\ the\ radius\ of\ the\ island,\ and\ the\ areas\ of\ the\ lake\ and\ the\ island,\r\n\ The\ program\ then\ subtracts\ the\ area\ if\ the\ island\ from\ the\ lake\ to\ find\ the\ total\ farmable\ area.\ The\ total\ farmable\ area\ is\ then\ rounded\ to\ two\ decimal\ places.\r\n\ The\ program\ finally\ prints\ the\ total\ farmable\ area\ along\ with\ the\ diameter\ of\ the\ island\ and\ the\ radius\ of\ the\ lake.\r\n\ Difficulties\:\ When\ I\ created\ this\ program,\ I\ forgot\ to\ use\ the\ island\ radius\ instead\ of\ the\ diameter.\r\n\ What\ I\ Learned\:\ In\ this\ exercise,\ I\ got\ some\ more\ practice\ with\ storing\ final\ variables,\ Java\ formatting\ best\ practices,\ casting,\ and\ mathematical\ operations.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
