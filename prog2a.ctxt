@@ -1,4 +1,6 @@
 #BlueJ class context
-comment0.params=args
-comment0.target=void\ main(java.lang.String[])
-numComments=1
+comment0.target=prog2a
+comment0.text=\r\n\ Name\:\ Bill\ Mao\r\n\ Date\:\ 9/7/2017\r\n\ School\:\ East\ Chapel\ Hill\ High\ School\r\n\ Program\:\ prog2a\ Prgram\r\n\ Description\:\ This\ program\ prints\ a\ statement\ describing\ Java\ and\ how\ you\ must\ treat\ it\ very\ carefully.\r\n\ It\ includes\ line\ breaks,\ and\ it\ was\ changed\ from\ a\ statement\ that\ described\ C++.\r\n\ Difficulties\:\ I\ first\ typed\ all\ the\ line\ breaks\ with\ regular\ slashes,\ but\ once\ I\ compiled,\ I\ noticed\ this\ mistake\ and\ changed\ them\ all\ to\ backslashes.\r\n\ What\ I\ Learned\:\ I\ learned\ how\ to\ use\ escape\ characters\ in\ Java,\ and\ how\ to\ add\ line\ breaks\ to\ text\ strings.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
