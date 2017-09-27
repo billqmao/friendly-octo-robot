@@ -13,6 +13,7 @@ public class Tester
 {
     public static void main(String args[])
     {
-        System.out.println((double)(3/4));
+        char x = 77;
+        System.out.println(x);
     }
 }

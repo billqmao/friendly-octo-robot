@@ -1,6 +1,4 @@
 #BlueJ class context
-comment0.target=MonthlyPayment
-comment0.text=\r\n\ Name\:\ Bill\ Mao\r\n\ Date\:\ 9/25/17\r\n\ School\:\ East\ Chapel\ Hill\ High\ School\r\n\ Program\:\ Program\ 58i\ (monthly\ payment)\r\n\ Description\:\ This\ program\ is\ designed\ to\ first\ store\ three\ details\ from\ a\ car\ loan\:...\r\n\ the\ amount\ borrowed,\ the\ interest\ rate,\ and\ the\ amount\ of\ years\ it\ will\ take\ to\ pay\ that\ loan.\r\n\ The\ program\ then\ takes\ these\ values\ and\ finds\ the\ monthly\ payment\ for\ the\ car,\ the\ total\ amount\ paid\ to\ the\ bank,\ and\ the\ amount\ of\ interest\ paid.\r\n\ It\ then\ prints\ these\ results\ for\ the\ user\ to\ see.\r\n\ Difficulties\:\ I\ split\ the\ monthly\ payment\ calculation\ into\ two\ parts\ in\ order\ to\ make\ it\ more\ readable,...\r\n\ as\ I\ tried\ to\ do\ it\ in\ one\ line\ of\ code,\ but\ was\ confused\ by\ all\ of\ the\ parentheses.\r\n\ I\ also\ mixed\ up\ two\ variables\ leading\ to\ a\ calculation\ error.\r\n\ What\ I\ Learned\:\ In\ this\ exercise,\ I\ got\ some\ more\ practice\ with\ casting\ variables\ and\ using\ the\ scanner\ object\ for\ user\ input\r\n\ I\ also\ got\ some\ practice\ with\ rounding\ and\ the\ Math\ class.\r\n
-comment1.params=args
-comment1.target=void\ main(java.lang.String[])
-numComments=2
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+numComments=1

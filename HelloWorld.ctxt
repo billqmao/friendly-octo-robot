@@ -1,6 +1,4 @@
 #BlueJ class context
-comment0.target=HelloWorld
-comment0.text=\r\n\ Name\:\ Bill\ Mao\r\n\ Date\:\ 9/5/2017\r\n\ School\:\ East\ Chapel\ Hill\ High\ School\r\n\ Program\:\ Hello\ World\ Program\r\n\ Description\:\ This\ is\ the\ first\ program\ I\ have\ made\ in\ Java,\ and\ it\ is\ designed\ to\ print\ "Hello\ World\!"\ to\ the\ terminal.\r\n\ Difficulties\:\ I\ encountered\ no\ difficulties\ creating\ this\ program.\r\n\ What\ I\ Learned\:\ I\ leared\ how\ to\ print\ text\ strings\ to\ the\ terminal\ in\ Java,\ how\ to\ put\ comments\ in\ Java,\r\n\ and\ the\ basic\ structure\ of\ most\ Java\ programs.\r\n
-comment1.params=args
-comment1.target=void\ main(java.lang.String[])
-numComments=2
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+numComments=1
