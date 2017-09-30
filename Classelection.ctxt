@@ -1,4 +1,6 @@
 #BlueJ class context
-comment0.params=args
-comment0.target=void\ main(java.lang.String[])
-numComments=1
+comment0.target=Classelection
+comment0.text=\r\n\ Name\:\ Bill\ Mao\r\n\ Date\:\ 9/15/2017\r\n\ School\:\ East\ Chapel\ Hill\ High\ School\r\n\ Program\:\ Election\ Results\ program\r\n\ Description\:\ This\ program\ is\ meant\ to\ take\ the\ results\ of\ an\ algebraic\ equation\ calculating\ how\ many\ votes\ Mary\ got,\ ...\r\n\ and\ calculate\ the\ amount\ of\ votes\ the\ other\ cadidates\ recieved\ combined\ with\ the\ total\ amount\ of\ votes\ casted.\r\n\ It\ then\ takes\ these\ values\ and\ prints\ them\ to\ the\ terminal.\r\n\ Difficulties\:\ When\ converting\ from\ algebra\ to\ Java,\ I\ at\ first\ added\ the\ votes\ from\ Mary\ rather\ than\ subtracted.\r\n\ What\ I\ Learned\:\ When\ writing\ this\ program,\ I\ learneed\ how\ our\ limited\ knowledge\ of\ Java\ effects\ how\ we\ write\ our\ programs.\r\n\ I\ also\ got\ some\ more\ practice\ with\ mathematical\ operations\ in\ Java\ and\ formatting\ strings\ in\ the\ print\ function.\r\n\ If\ given\ this\ assignment\ later\ in\ the\ year,\ I\ would\ solve\ the\ algebraic\ equation\ in\ Java.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

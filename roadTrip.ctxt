@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=roadTrip
+comment0.text=\r\n\ Name\:\ Bill\ Mao\r\n\ Date\:\ 9/29/17\r\n\ School\:\ East\ Chapel\ Hill\ High\ School\r\n\ Program\:\ Program\ 82c\ (Road\ Trip)\r\n\ Description\:\ This\ program\ is\ designed\ to\ calculate\ the\ cost\ of\ a\ road\ trip.\r\n\ It\ first\ asks\ the\ user\ for\ three\ data\ points\ related\ to\ the\ road\ trip\:\ The\ average\ cost\ of\ gasoline,\ the\ distance\ to\ the\ destination,\ and\ the\ miles\ per\ gallon\ efficency\ of\ the\ car.\r\n\ It\ then\ divides\ the\ miles\ to\ the\ destination\ by\ the\ miles\ per\ gallon,\ and\ multiplies\ by\ the\ price\ of\ the\ gas\ to\ find\ the\ cost\ of\ the\ trip.\r\n\ The\ cost\ of\ the\ trip\ is\ then\ rounded\ to\ two\ decimal\ places.\r\n\ The\ miles\ to\ the\ destination,\ miles\ per\ gallon\ of\ the\ car,\ the\ price\ of\ the\ gas,\ and\ the\ cost\ of\ the\ trip\ rounded\ are\ then\ printed\ for\ the\ user\ to\ see.\r\n\ Difficulties\:\ I\ originally\ set\ the\ milesToDest\ as\ an\ integer,\ and\ encountered\ an\ error\ when\ I\ tried\ to\ save\ a\ floating\ point\ to\ it.\r\n\ What\ I\ Learned\:\ I\ got\ some\ more\ practice\ with\ the\ scanner\ class\ and\ user\ input.\ I\ also\ practiced\ casting\ and\ printing\ to\ the\ console.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

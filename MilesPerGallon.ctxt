@@ -1,4 +1,6 @@
 #BlueJ class context
-comment0.params=args
-comment0.target=void\ main(java.lang.String[])
-numComments=1
+comment0.target=MilesPerGallon
+comment0.text=\r\n\ Name\:\ Bill\ Mao\r\n\ Date\:\ 9/14/2017\r\n\ School\:\ East\ Chapel\ Hill\ High\ School\r\n\ Program\:\ Miles\ Per\ Gallon\r\n\ Description\:\ This\ program\ is\ designed\ to\ calculate\ the\ miles\ per\ gallon\ of\ the\ four\ vehicles\ specificed\ in\ the\ instructions.\r\n\ It\ then\ takes\ this\ value,\ rounds\ it\ to\ the\ tenths\ place,\ and\ prints\ the\ result.\r\n\ Difficulties\:\ When\ I\ created\ this\ program,\ I\ still\ had\ some\ difficulting\ in\ remembering\ to\ add\ semicolons\ to\ the\ end\ of\ every\ line\ of\ code.\r\n\ I\ forgot\ that\ line\ breaks\ needed\ to\ be\ added\ inside\ the\ string\ and\ not\ outside\ of\ it.\ \r\n\ I\ also\ had\ to\ adjust\ some\ of\ the\ rounding\ to\ multiply\ and\ divide\ by\ 10\ because\ the\ MPG\ values\ only\ went\ to\ one\ decimal\ place.\r\n\ What\ I\ Learned\:\ I\ learned\ how\ to\ cast\ values\ in\ Java\ to\ different\ primitive\ data\ types,\ and\ how\ those\ data\ types\ affect\ math\ operations.\r\n\ I\ also\ learned\ how\ to\ concatenate\ together\ variables\ and\ strings\ in\ Java.\r\n\ In\ the\ future,\ I\ would\ also\ simplify\ this\ program\ by\ declaring\ less\ variables\ and\ doing\ some\ of\ the\ calculations\ directly.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

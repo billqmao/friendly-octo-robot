@@ -1,4 +1,6 @@
 #BlueJ class context
-comment0.params=args
-comment0.target=void\ main(java.lang.String[])
-numComments=1
+comment0.target=BatterUp
+comment0.text=\r\n\ Name\:\ Bill\ Mao\r\n\ Date\:\ 9/21/17\r\n\ School\:\ East\ Chapel\ Hill\ High\ School\r\n\ Program\:\ Program\ 54d\ (batter\ up)\r\n\ Description\:\ This\ program\ is\ designed\ to\ ask\ the\ user\ for\ a\ baseball\ player's\ name,\ adn\ three\ statistics\ related\ to\ baseball\:...\r\n\ the\ times\ at\ bat,\ number\ of\ hits,\ and\ number\ of\ walks\ for\ the\ player.\r\n\ It\ then\ takes\ these\ statistics\ and\ calculates\ the\ batting\ average\ and\ on\ base\ percentage.\r\n\ The\ batting\ average\ and\ on\ base\ percentage\ are\ then\ rounded\ to\ three\ decimal\ points,\ and\ are\ printed\ for\ the\ user\ to\ see.\r\n\ Difficulties\:\ When\ I\ created\ this\ program,\ I\ first\ rounded\ incorrectly\ by\ adding\ .05\ instead\ of\ .5.\r\n\ What\ I\ Learned\:\ In\ this\ exercise,\ I\ got\ some\ more\ practice\ with\ casting\ variables\ and\ getting\ user\ input\ with\ the\ scanner\ class.\r\n\ I\ also\ better\ understand\ how\ the\ rounding\ calculation\ works\ now.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
