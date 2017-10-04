@@ -13,7 +13,6 @@ public class Tester
 {
     public static void main(String args[])
     {
-        char x = 77;
-        System.out.println(x);
+        
     }
 }
