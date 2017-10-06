@@ -1,6 +1,4 @@
 #BlueJ class context
-comment0.target=powerAndLight
-comment0.text=\r\n\ Name\:\ Bill\ Mao\r\n\ Date\:\ 9/27/17\r\n\ School\:\ East\ Chapel\ Hill\ High\ School\r\n\ Program\:\ Program\ 93a\ (CompSci\ Power\ and\ Light)\r\n\ Description\:\ This\ program\ is\ designed\ to\ calculate\ the\ monthly\ electrical\ bill\ for\ the\ user.\r\n\ The\ constants\ used\ in\ the\ calculation\ are\ first\ stored\ as\ final\ variables\r\n\ The\ program\ then\ prompts\ the\ user\ for\ their\ KWH\ usage,\ and\ stores\ this\ as\ an\ integer\r\n\ The\ base\ power\ cost,\ surcharge,\ and\ tax\ are\ then\ calculated.\r\n\ These\ three\ values\ are\ then\ rounded\ to\ two\ decimal\ places,\ and\ are\ used\ to\ calculate\ the\ total\ rounded\ amount\ and\ the\ final\ rounded\ amount\r\n\ The\ five\ values\ are\ then\ printed\ for\ the\ user\ in\ the\ format\ of\ an\ electrical\ bill.\r\n\ Difficulties\:\ I\ had\ to\ shift\ the\ total\ amount\ and\ late\ amount\ calculations\ due\ to\ rounding\ differences\ in\ the\ problem\ and\ my\ program\r\n\ What\ I\ Learned\:\ I\ got\ some\ more\ practice\ with\ input\ in\ Java\ using\ the\ scanner\ class,\ formatting\ printed\ strings,...\r\n\ casting\ in\ Java,\ and\ the\ use\ of\ final\ variables.\r\n
-comment1.params=args
-comment1.target=void\ main(java.lang.String[])
-numComments=2
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+numComments=1

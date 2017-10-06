@@ -1,6 +1,4 @@
 #BlueJ class context
-comment0.target=identityTheft
-comment0.text=\r\n\ Name\:\ Bill\ Mao\r\n\ Date\:\ 9/26/17\r\n\ School\:\ East\ Chapel\ Hill\ High\ School\r\n\ Program\:\ Program\ 72a\ (identity\ theft)\r\n\ Description\:\ This\ program\ is\ designed\ to\ take\ an\ 8\ digit\ credit\ card\ number,\ and\ find\ a\ corresponding\ security\ character.\r\n\ The\ program\ first\ asks\ the\ user\ for\ their\ credit\ card\ number\ broken\ up\ into\ 4\ chunks\ of\ 2\ digit\ numbers.\r\n\ It\ then\ stores\ all\ four\ of\ these\ chunks.\r\n\ These\ chunks\ and\ then\ added\ up\ into\ one\ integer,\ and\ then\ is\ divided\ by\ 26\ to\ find\ the\ remainder.\r\n\ The\ remainder\ then\ has\ 65\ added\ to\ it\ to\ shift\ is\ UTF-16\ decimal\ value,\ and\ then\ is\ stored\ as\ a\ char.\r\n\ The\ security\ code\ is\ then\ printed\ along\ with\ the\ credit\ card\ number\ for\ the\ user\ to\ see.\r\n\ Difficulties\:\ I\ originally\ forgot\ to\ convert\ the\ integer\ from\ the\ security\ code\ operation\ to\ a\ char,\ and\ got\ a\ lossy\ conversion\ error.\r\n\ What\ I\ Learned\:\ I\ learned\ how\ UTF-16\ characters\ are\ stored\ in\ Java\ as\ the\ primitive\ data\ type\ char,\ and\ how\ to\ convert\ from\ integers\ to\ chars.\r\n\ I\ also\ got\ some\ more\ practice\ with\ using\ the\ scanner\ class\ for\ user\ input.\r\n
-comment1.params=args
-comment1.target=void\ main(java.lang.String[])
-numComments=2
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+numComments=1
