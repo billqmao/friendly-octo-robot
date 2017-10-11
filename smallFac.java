@@ -29,12 +29,14 @@ public class smallFac{
     public static void main(String args[])
     {
         Scanner kbInput = new Scanner(System.in); //Creates a new scanner object in order to use user input
-        int number = 0;
-        int product = 1;
-        boolean anothernum = true;
-        String yesNo = "Yes";
-        String yesNoLower = "yes";
+        //Most variables are declared before the loop in order to use them throughout the program
+        int number = 0; //Used for the number the user provides
+        int product = 1; //Used for the calculation/end result
+        boolean anothernum = true; //Used to repeat the do...while loop
+        String yesNo = "Yes"; //Used for yes/no user input for repeat calculations
+        String yesNoLower = "yes"; //Used for yes/no user input for repeat calculations
         do{
+            //Asks user for a number that will be factorialed and stores it
             System.out.println("Enter a number:_");
             number = kbInput.nextInt();
             for(int count = number; count > 0; count--)
