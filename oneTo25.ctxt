@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=oneTo25
+comment0.text=\r\n\ Name\:\ Bill\ Mao\r\n\r\n\ Date\:\ 10/13/2017\r\n\r\n\ School\:\ East\ Chapel\ Hill\ High\ School\r\n\r\n\ Program\:\ Program\ 123a\ (Counting\ 25\ formatted\ numbers)\r\n\r\n\ Description\:\ This\ program\ is\ designed\ to\ print\ out\ a\ table\ of\ number\ from\ one\ to\ twenty\ five.\r\n\ It\ begins\ by\ printing\ out\ a\ header\ for\ the\ table.\r\n\ A\ do..while\ loop\ inside\ a\ for\ loop\ is\ designed\ to\ iterate\ through\ the\ numbers\ 1-5\ plus\ the\ last\ number\ of\ the\ row\ before\ it\r\n\ A\ for\ loop\ outside\ of\ the\ do..while\ loop\ is\ designed\ to\ iterate\ through\ the\ five\ rows\ necessary\ to\ print\ 1-25.\r\n\ These\ two\ nested\ loops\ combine\ to\ point\ out\ the\ table\ of\ the\ number\ 1-25.\r\n\r\n\ Difficulties\:\ I\ reversed\ all\ of\ the\ greater\ than/less\ than\ signs\ at\ first.\r\n\r\n\ What\ I\ Learned\:\ I\ got\ some\ more\ practice\ with\ nested\ loops\ in\ this\ program,...\r\n\ and\ it\ helped\ me\ better\ understand\ how\ they\ work.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
