@@ -1,19 +1,24 @@
 
 /**
  * Name: Bill Mao
- * 
- * Date: 9/5/2017
- * 
+ *
+ * Date: 10/16/2017
+ *
  * School: East Chapel Hill High School
- * 
- * Program: Hello World Program
- * 
- * Description: This is the first program I have made in Java, and it is designed to print "Hello World!" to the terminal.
- * 
- * Difficulties: I encountered no difficulties creating this program.
- * 
- * What I Learned: I leared how to print text strings to the terminal in Java, how to put comments in Java,
- * and the basic structure of most Java programs.
+ *
+ * Program: Program 166d (still below minimum wage)
+ *
+ * Description: This program is designed to calculate the total wages 3 to 8 workers would earn from 10 to 40 hours.
+ * It begins by declaring any variables that may be used outside of the scope of the loops.
+ * The first outer for loop then executes, and it increments the workers variable from 3 to 8, as per the instructions.
+ * It also prints out the amount of workers per iteration.
+ * The inner for loop then increments the hours variable from 10 to 40 in blocks of 10 hours.
+ * Inside each iteration, the total pay that the employer owes is calculated and printed along with the hours.
+ * Once the two loops finish running, the program terminates.
+ *
+ * Difficulties: I changed some of the variable names around to avoid confusion between them.
+ *
+ * What I Learned: I got some more practice with nested loops, for loops, and mathematical operations in Java.
  */
 
 import java.util.*;
@@ -25,18 +30,22 @@ public class minWage
     {
         //Four variables are first decalred so that they can be used outside of the scope of the loops.
         int workers = 0; //Amount of workers that need to be paid
-        final int HOURLYWAGE = 8; //Hourly wage of the employees, decalred as a final as it will stay constant
-        int totalWage = 0;
-        int hours = 0;
-        for( workers = 3; workers <= 8; workers++)
+        int hourlyWage = 8; //Hourly wage of the employees, declared as a final as it will stay constant
+        int totalPay = 0; //Total amount of money that the employer has to pay to its workers
+        int hours = 0; //Hours worked for all employees
+        for(workers = 3; workers <= 8; workers++)
         {
+            //The first for loop increments the workers from 3 to 8...
+            //,and prints out the number of workers for each loop iteration
             System.out.println("Wages for " + workers + " employees\n");
             for(hours = 10; hours <= 40; hours += 10)
             {
-               totalWage = HOURLYWAGE * workers * hours;
-               System.out.println("For " + hours + " hours worked, the wages are " + totalWage + " dollars");
+                //The second for loop calculates the total pay from the amount of workers, the hourly wage, and the amount of hours worked four times
+                //It increments from 10 hours to 40 hours per every 10 hours
+                totalPay = hourlyWage * workers * hours;
+                System.out.println("For " + hours + " hours worked, the wages are " + totalPay + " dollars");
             }
-            System.out.println("\n");
+            System.out.println("\n"); //New line for formatting reasons
         }
     }
 }
@@ -88,3 +97,6 @@ public class minWage
 //For 20 hours worked, the wages are 1280 dollars
 //For 30 hours worked, the wages are 1920 dollars
 //For 40 hours worked, the wages are 2560 dollars
+
+
+
