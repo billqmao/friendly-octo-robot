@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=pyramid
+comment0.text=\r\n\ Name\:\ Bill\ Mao\r\n\r\n\ Date\:\ 10/20/17\r\n\r\n\ School\:\ East\ Chapel\ Hill\ High\ School\r\n\r\n\ Program\:\ Program\ 166c\ (even\ more\ asterisk\ per\ asterisk)\r\n\r\n\ Description\:\ This\ program\ is\ designed\ to\ print\ out\ a\ six\ line\ pyramid.\r\n\ It\ begins\ by\ executing\ a\ large\ for\ loop\ that\ controls\ which\ line\ of\ the\ pyramid\ is\ being\ printed.\r\n\ In\ the\ loop,\ the\ amount\ of\ stars\ and\ spaces\ need\ in\ a\ line\ are\ first\ calculated.\r\n\ The\ number\ of\ spaces\ needed\ is\ then\ printed\ through\ iterations\ of\ one\ while\ loop.\r\n\ The\ number\ of\ stars\ needed\ is\ printed\ after\ the\ spaces\ though\ a\ similarly\ formatted\ while\ loop\r\n\ The\ program\ then\ ends\ once\ all\ the\ stars\ and\ spaces\ are\ printed,\ and\ six\ lines\ of\ a\ pyramid\ are\ on\ the\ console.\r\n\r\n\ Difficulties\:\ I\ originally\ got\ an\ infinite\ loop\ of\ stars\ because\ I\ reversed\ the\ greater\ than\ or\ equal\ to\ signs\ to...\r\n\ less\ than\ or\ equal\ to\ signs\ in\ the\ two\ while\ loops.\r\n\r\n\ What\ I\ Learned\:\ I\ got\ some\ more\ practice\ with\ nested\ loops\ and\ formatting\ printed\ strings\ in\ the\ console.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
