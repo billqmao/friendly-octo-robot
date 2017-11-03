@@ -29,20 +29,29 @@ public class eggCount
     public static void main(String args[])
     {
         int eggs = 1;
-        boolean flag = true;
+        boolean outerFlag = true;
+        boolean innerFlag = true;
         int divisor = 2;
         int remainder = 1;
-        while(eggs <= 500 && flag == true)
+        while(eggs <= 500 && outerFlag == true)
         {
-            while(flag == true && divisor <= 7)
+            while(innerFlag == true && divisor <= 7)
             {
+                if((eggs % divisor) == remainder)
+                {
+                    outerFlag = false;
+                }
+                else
+                {
+                    innerFlag = true;
+                }
                 
             }
             eggs++;
             remainder = 1;
             divisor = 2;
         }
-      
+        System.out.println(eggs-1);
     }
 }
 //Output:
