@@ -1,4 +1,6 @@
 #BlueJ class context
-comment0.params=args
-comment0.target=void\ main(java.lang.String[])
-numComments=1
+comment0.target=SumandAverage
+comment0.text=\r\n\ Name\:\ Bill\ Mao\r\n\ Date\:\ 9/14/2017\r\n\ School\:\ East\ Chapel\ Hill\ High\ School\r\n\ Program\:\ Sum\ and\ Average\r\n\ Description\:\ This\ program\ is\ designed\ to\ calculate\ the\ sum\ and\ the\ average\ of\ the\ four\ values\ specificed\ in\ the\ instructions.\r\n\ It\ then\ takes\ the\ sum\ and\ average\ and\ prints\ them.\r\n\ Difficulties\:\ When\ I\ created\ this\ program,\ I\ again\ still\ had\ some\ difficulting\ in\ remembering\ to\ add\ semicolons\ to\ the\ end\ of\ every\ line\ of\ code.\r\n\ What\ I\ Learned\:\ I\ got\ some\ more\ practice\ with\ concatenation,\ mathematical\ operations,\ and\ primitive\ data\ types\ in\ Java.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

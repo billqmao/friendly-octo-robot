@@ -23,6 +23,28 @@ public class Tester
 {
     public static void main(String args[])
     {
+        int x = 0;
+        int y = 0;
+        for(x = 1; x <= 250; x++)
+        {
+            if (x < 100)
+            {
+                if (x > 200)
+                    y = 1000;
+                else
+                    y = 2000;
+            }
+            else
+            {
+                if ( x < 50)
+                    y = 3000;
+                else
+                    y = 2000;
+            }
+            System.out.println(y);
+        }
         
-    }
+
+    } 
 }
+
