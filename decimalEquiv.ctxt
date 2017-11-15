@@ -1,4 +1,6 @@
 #BlueJ class context
-comment0.params=args
-comment0.target=void\ main(java.lang.String[])
-numComments=1
+comment0.target=decimalEquiv
+comment0.text=\r\n\ Name\:\ Bill\ Mao\r\n\r\n\ Date\:\ 10/17/17\r\n\r\n\ School\:\ East\ Chapel\ Hill\ High\ School\r\n\r\n\ Program\:\ Program\ 166e\ (decimal\ equivalents)\r\n\r\n\ Description\:\ This\ program\ is\ designed\ to\ print\ out\ all\ the\ possible\ proper\ fractions\ with\ denominators\ from\ 2\ to\ 14.\r\n\ The\ program\ begins\ by\ initializing\ the\ denominator\ and\ numerator\ variables\ outside\ of\ the\ loops,\ so\ that\ they\ can\ be\ used\ anywhere\ in\ the\ program\ if\ needed.\r\n\ A\ for\ loop\ then\ executes,\ and\ it\ is\ designed\ to\ increment\ the\ denominator\ from\ 2\ to\ 14.\r\n\ It\ also\ sets\ the\ numerator\ to\ 0\ at\ the\ end\ of\ every\ iteration\ of\ the\ for\ loop\ so\ that\ the\ numerator\ will\ start\ at\ 1...\r\n\ instead\ of\ where\ it\ left\ off\ in\ the\ previous\ calculation.\r\n\ A\ do..while\ loop\ inside\ of\ the\ for\ loop\ increments\ the\ numerator\ from\ 1\ until\ no\ more\ proper\ fractions\ are\ available.\r\n\ Every\ time\ a\ fraction\ is\ calculated,\ it\ is\ printed\ along\ with\ a\ decimal\ approximation\ rounded\ to\ five\ decimal\ points.\r\n\r\n\ Difficulties\:\ I\ had\ some\ difficulty\ incrementing\ the\ numerator\ from\ 1\ to\ one\ less\ than\ the\ denominator,\ but\ I\ eventually\ found\ a\ solution.\r\n\r\n\ What\ I\ Learned\:\ I\ got\ some\ more\ practice\ with\ nested\ loops\ and\ mathematical\ calculations.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
