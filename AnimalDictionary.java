@@ -43,14 +43,13 @@ public class AnimalDictionary
             animal = animal.toLowerCase();
             if(animal.compareTo("dinosaur") > 0 && animal.compareTo("walrus") < 0)
             {
-                System.out.print("\t\tbetween\n");
+                System.out.printf("\t\tbetween\n");
             }
             else
             {
-                System.out.print("\t\tnot between\n");
+                System.out.printf("\t\tnot between\n");
 
             }
-
         }
     }
 
