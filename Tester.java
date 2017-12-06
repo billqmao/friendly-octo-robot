@@ -18,16 +18,13 @@
 
 import java.util.*;
 import java.io.*;
-import java.text.*;
 
 public class Tester
 {
     public static void main(String args[])
     {
-        int a = 15;
-        Integer b = Integer.valueOf(a);
-        System.out.println(Integer.toHexString(b));
+        for(int x= 0; x <= 120; x++)
+            System.out.print(0);
     }
 }
-
 
