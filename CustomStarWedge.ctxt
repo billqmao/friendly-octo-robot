@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=CustomStarWedge
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Menu\ for\ the\ user\ to\ select\ their\ desired\ triangle\ shape\ and\ rows\r\n\ post\:\ Triangle\ shape\ method\ selected\ and\ number\ of\ rows\ passed\ to\ the\ corresponding\ method\r\n
+comment2.params=rows
+comment2.target=void\ leftTriangle(int)
+comment2.text=\r\n\ Prints\ a\ left\ aligned\ triangle\ of\ stars\r\n\ post\:\ Left\ aligned\ triangle\ that\ has\ x\ amount\ of\ rows\ according\ to\ the\ user\ printed\ to\ the\ console\r\n
+comment3.params=rows
+comment3.target=void\ rightTriangle(int)
+comment3.text=\r\n\ Prints\ a\ right\ aligned\ triangle\ of\ stars\r\n\ post\:\ Right\ aligned\ triangle\ that\ has\ x\ amount\ of\ rows\ according\ to\ the\ user\ printed\ to\ the\ console\r\n
+comment4.params=rows
+comment4.target=void\ centerTriangle(int)
+comment4.text=\r\n\ Prints\ a\ center\ aligned\ triangle\ of\ stars\r\n\ post\:\ Center\ aligned\ triangle\ that\ has\ x\ amount\ of\ rows\ according\ to\ the\ user\ printed\ to\ the\ console\r\n
+numComments=5
